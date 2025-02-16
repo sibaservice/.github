@@ -1,1 +1,1 @@
-# .github
+This repository holds the default GitHub community health files for the SibaService.
